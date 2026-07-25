@@ -17,6 +17,8 @@ DBD Match Notifier
 
 Установка
 
+Сначало установите python. я использовал python-3.12.0-amd64 - прямая ссылка - https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
+
 Открой терминал в папке программы и выполни:
 
 pip install -r requirements.txt
