@@ -1,0 +1,8 @@
+customtkinter
+opencv-python
+pillow
+requests
+pystray
+pygetwindow
+cryptography
+numpy
